@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right top, #83def6, #79e1f0, #74e3e8, #73e5dd, #78e6d1, #7fe8c8, #88eabd, #94ebb2, #a2eea7, #b1ef9b, #c2f190, #d5f185);
+    font-family: 'Potta One', cursive;
+}
+
+.heading{
+width: 100%;
+font-size:30px;
+background-image: linear-gradient(to right top, #50eef4, #0af1e7, #00f4d4, #00f5bb, #00f59d, #45f58a, #65f577, #7ff463, #99f45e, #aff45b, #c3f459, #d6f35a);
+color: white;
+margin:0px;
+box-shadow: 10px 10px 20px rgb(68, 189, 245) ;
+}
+
+
+#note{
+font-size: 20px;
+color:white;
+
+
+}
+
+
+#copy_right{
+    position: fixed;
+    bottom:0px;
+    width:100%;
+    background-image: linear-gradient(to right top, #6ff364, #65f155, #5aef45, #4eed31, #41eb12);
+    color:rgb(124, 237, 245);
+    text-align: center;
+    line-height:3;
+    font-size:20px
+
+}
+
+canvas{
+    border-color: white;
+    border-width: 10px;
+    box-shadow: 10px 10px 20px rgb(73, 185, 230);
+    border-style: solid;
+    border-radius: 20px;
+}
